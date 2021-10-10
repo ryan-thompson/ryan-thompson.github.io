@@ -1,0 +1,20 @@
+name: "my-website"
+output_dir: "docs"
+output:
+  html_document:
+    theme:
+      bootswatch: simplex
+      version: 4
+navbar:
+  left:
+  - text: "Curriculum vitae"
+    href: RyanThompson_CV.pdf
+  right:
+  - icon: fa-envelope
+    href: mailto:ryan.thompson@monash.edu
+  - icon: fab fa-linkedin
+    href: https://au.linkedin.com/in/r-thompson
+  - icon: fa-graduation-cap
+    href: https://scholar.google.com.au/citations?user=rQx30dcAAAAJ
+  - icon: fab fa-github
+    href: https://github.com/ryan-thompson
