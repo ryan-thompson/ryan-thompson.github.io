@@ -10,19 +10,19 @@ h1.title {
 
 ---
 
-Robust subset selection  
-Ryan Thompson  
-Computational Statistics & Data Analysis, 2022+ [[arXiv](https://arxiv.org/abs/2005.08217)]
+**Familial inference**  
+Ryan Thompson, Catherine Forbes, Steve MacEachern, and Mario Peruggia  
+2022 [[arXiv](https://arxiv.org/abs/2202.12540)]
 
-Group selection and shrinkage with application to sparse semiparametric modeling  
+**Robust subset selection**  
+Ryan Thompson  
+Computational Statistics and Data Analysis, 2022 [[arXiv](https://arxiv.org/abs/2005.08217)]
+
+**Group selection and shrinkage with application to sparse semiparametric modeling**  
 Ryan Thompson and Farshid Vahid  
 2021 [[arXiv](https://arxiv.org/abs/2105.12081)]
 
-Forecasting in the world of big data  
-Ryan Thompson  
-ORMS Tomorrow, 2020 [[informs](https://www.informs.org/Publications/OR-MS-Tomorrow/ORMS-Tomorrow-Spring-Summer-2020)]
-
-Optimal selection of expert forecasts with integer programming  
+**Optimal selection of expert forecasts with integer programming**  
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev  
 Omega, 2018 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)]
 
