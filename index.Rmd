@@ -14,19 +14,19 @@ h1.title {
 
 <div class="col-sm-3">
 
-<img src="photo.jpg" style="border-radius: 5px">
+<img src="images/photo.jpg" style="border-radius: 5px">
 
 </div>
 
 <div class="col-sm-9">
 
-Hi. I'm a PhD student in the [Department of Econometrics and Business Statistics](https://www.monash.edu/business/econometrics-and-business-statistics) at Monash University, Australia.
+Hi! I'm a Research Associate (postdoc) in the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in [Data61](https://data61.csiro.au/) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO). I'm also a member of the [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash).
 
-My scientific interests lie in the union of statistics, econometrics, and optimisation. I particularly enjoy developing methods for analysing high-dimensional data, especially where it is relevant to business and economics. I like to read widely and follow developments in different fields.
+My scientific research interests lie in statistical learning. I particularly enjoy working on high-dimensional problems---challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.
 
-Prior to joining Monash, I spent two years consulting financial institutions on quantitative risk management. Before that, I completed my undergraduate studies at the University of Sydney, Australia, where I was most recently an honours student in the Discipline of Business Analytics.
+Prior to joining UNSW/CSIRO, I was a postgraduate student in the Department of Econometrics and Business Statistics at Monash University. Before that, I spent two years consulting financial institutions on quantitative risk management. I completed my undergraduate studies at the University of Sydney.
 
-**See my [Curriculum Vitae](RyanThompson_CV.pdf).**
+**My curriculum vitae is available [here](RyanThompson_CV.pdf).**
 
 </div>
 

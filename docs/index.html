@@ -13,7 +13,7 @@
 
 <title>Ryan Thompson</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -234,7 +242,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -255,7 +263,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:ryan.thompson@monash.edu">
+  <a href="mailto:ryan.thompson1@unsw.edu.au">
     <span class="fa fa-envelope"></span>
      
   </a>
@@ -300,30 +308,34 @@ h1.title {
 <hr />
 <div class="row">
 <div class="col-sm-3">
-<p><img src="photo.jpg" style="border-radius: 5px"></p>
+<p><img src="images/photo.jpg" style="border-radius: 5px"></p>
 </div>
 <div class="col-sm-9">
-<p>Hi. I’m a PhD student in the <a
-href="https://www.monash.edu/business/econometrics-and-business-statistics">Department
-of Econometrics and Business Statistics</a> at Monash University,
-Australia.</p>
-<p>My scientific interests lie in the union of statistics, econometrics,
-and optimisation. I particularly enjoy developing methods for analysing
-high-dimensional data, especially where it is relevant to business and
-economics. I like to read widely and follow developments in different
-fields.</p>
-<p>Prior to joining Monash, I spent two years consulting financial
-institutions on quantitative risk management. Before that, I completed
-my undergraduate studies at the University of Sydney, Australia, where I
-was most recently an honours student in the Discipline of Business
-Analytics.</p>
-<p><strong>See my <a href="RyanThompson_CV.pdf">Curriculum
-Vitae</a>.</strong></p>
+<p>Hi! I’m a Research Associate (postdoc) in the <a
+href="https://www.unsw.edu.au/science/our-schools/maths">School of
+Mathematics and Statistics</a> at the University of New South Wales
+(UNSW) in Sydney, Australia, and a Visiting Scientist in <a
+href="https://data61.csiro.au/">Data61</a> at the Commonwealth
+Scientific and Industrial Research Organisation (CSIRO). I’m also a
+member of the <a href="https://www.unsw.edu.au/research/udash">UNSW Data
+Science Hub</a>.</p>
+<p>My scientific research interests lie in statistical learning. I
+particularly enjoy working on high-dimensional problems—challenging
+problems that comprise a large number (thousands or millions) of
+statistical unknowns. I also like to read widely and follow developments
+in different fields.</p>
+<p>Prior to joining UNSW/CSIRO, I was a postgraduate student in the
+Department of Econometrics and Business Statistics at Monash University.
+Before that, I spent two years consulting financial institutions on
+quantitative risk management. I completed my undergraduate studies at
+the University of Sydney.</p>
+<p><strong>My curriculum vitae is available <a
+href="RyanThompson_CV.pdf">here</a>.</strong></p>
 </div>
 </div>
 <hr />
 <center>
-<small>Last updated: March 02, 2022.</small>
+<small>Last updated: August 25, 2022.</small>
 </center>
 
 

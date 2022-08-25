@@ -13,7 +13,7 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -139,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -234,7 +242,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -255,7 +263,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:ryan.thompson@monash.edu">
+  <a href="mailto:ryan.thompson1@unsw.edu.au">
     <span class="fa fa-envelope"></span>
      
   </a>
@@ -298,26 +306,91 @@ h1.title {
 }
 </style>
 <hr />
-<p><strong>Familial inference</strong><br />
-Ryan Thompson, Catherine Forbes, Steve MacEachern, and Mario
-Peruggia<br />
-2022 [<a href="https://arxiv.org/abs/2202.12540">arXiv</a>]</p>
+<p><em>Publications</em></p>
+<div class="row">
+<div class="col-sm-8">
 <p><strong>Robust subset selection</strong><br />
 Ryan Thompson<br />
 Computational Statistics and Data Analysis, 2022 [<a
 href="https://arxiv.org/abs/2005.08217">arXiv</a>]</p>
-<p><strong>Group selection and shrinkage with application to sparse
-semiparametric modeling</strong><br />
-Ryan Thompson and Farshid Vahid<br />
-2021 [<a href="https://arxiv.org/abs/2105.12081">arXiv</a>]</p>
+</div>
+<div>
+<p><img src="images/robust-01.png" width="40px">
+<img src="images/robust-02.png" width="40px">
+<img src="images/robust-03.png" width="40px">
+<img src="images/robust-04.png" width="40px">
+<img src="images/robust-05.png" width="40px">
+<img src="images/robust-06.png" width="40px"></p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8">
 <p><strong>Optimal selection of expert forecasts with integer
 programming</strong><br />
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev<br />
 Omega, 2018 [<a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083">SSRN</a>]</p>
+</div>
+<div>
+<p><img src="images/optimal-01.png" width="40px">
+<img src="images/optimal-02.png" width="40px">
+<img src="images/optimal-03.png" width="40px">
+<img src="images/optimal-04.png" width="40px">
+<img src="images/optimal-05.png" width="40px">
+<img src="images/optimal-06.png" width="40px"></p>
+</div>
+</div>
+<p><em>Preprints</em></p>
+<div class="row">
+<div class="col-sm-8">
+<p><strong>Global combinations of expert forecasts</strong><br />
+Yilin Qian, Ryan Thompson, and Andrey Vasnev<br />
+2022 [<a href="https://arxiv.org/abs/2202.12540">arXiv</a>]</p>
+</div>
+<div>
+<p><img src="images/global-01.png" width="40px">
+<img src="images/global-02.png" width="40px">
+<img src="images/global-03.png" width="40px">
+<img src="images/global-04.png" width="40px">
+<img src="images/global-05.png" width="40px">
+<img src="images/global-06.png" width="40px"></p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8">
+<p><strong>Familial inference</strong><br />
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario
+Peruggia<br />
+2022 [<a href="https://arxiv.org/abs/2202.12540">arXiv</a>]</p>
+</div>
+<div>
+<p><img src="images/familial-01.png" width="40px">
+<img src="images/familial-02.png" width="40px">
+<img src="images/familial-03.png" width="40px">
+<img src="images/familial-04.png" width="40px">
+<img src="images/familial-05.png" width="40px">
+<img src="images/familial-06.png" width="40px"></p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8">
+<p><strong>Group selection and shrinkage: Structured sparsity for
+semiparametric models</strong><br />
+Ryan Thompson and Farshid Vahid<br />
+2022 [<a href="https://arxiv.org/abs/2105.12081">arXiv</a>]</p>
+</div>
+<div>
+<p><img src="images/group-01.png" width="40px">
+<img src="images/group-02.png" width="40px">
+<img src="images/group-03.png" width="40px">
+<img src="images/group-04.png" width="40px">
+<img src="images/group-05.png" width="40px">
+<img src="images/group-06.png" width="40px"></p>
+</div>
+</div>
 <hr />
 <center>
-<small>Last updated: March 02, 2022.</small>
+<small>Last updated: August 25, 2022.</small>
 </center>
 
 
