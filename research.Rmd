@@ -50,7 +50,7 @@ Omega, 2018 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)
 <div class="col-sm-8">
 **Global combinations of expert forecasts**  
 Yilin Qian, Ryan Thompson, and Andrey Vasnev  
-2022 [[arXiv](https://arxiv.org/abs/2202.12540)]
+2022 [[arXiv](https://arxiv.org/abs/2207.07318)]
 </div>
 <div>
 <img src="images/global-01.png" width="40px">
