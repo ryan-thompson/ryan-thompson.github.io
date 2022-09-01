@@ -1,0 +1,128 @@
+---
+title: "Research"
+---
+
+---
+
+*Publications*
+
+::: grid
+
+::: g-col-7
+
+**Robust subset selection**  
+Ryan Thompson  
+Computational Statistics and Data Analysis, 2022 [[arXiv](https://arxiv.org/abs/2005.08217)]
+
+::: 
+
+::: g-col-4
+
+![](resources/robust-01.png){width="50px"}
+![](resources/robust-02.png){width="50px"}
+![](resources/robust-03.png){width="50px"}
+![](resources/robust-04.png){width="50px"}
+![](resources/robust-05.png){width="50px"}
+![](resources/robust-06.png){width="50px"}
+
+:::
+
+:::
+
+::: grid
+
+::: g-col-7
+
+**Optimal selection of expert forecasts with integer programming**  
+Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev  
+Omega, 2018 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)]
+
+::: 
+
+::: g-col-4
+
+![](resources/optimal-01.png){width="50px"}
+![](resources/optimal-02.png){width="50px"}
+![](resources/optimal-03.png){width="50px"}
+![](resources/optimal-04.png){width="50px"}
+![](resources/optimal-05.png){width="50px"}
+![](resources/optimal-06.png){width="50px"}
+
+:::
+
+:::
+
+*Preprints*
+
+::: grid
+
+::: g-col-7
+
+**Global combinations of expert forecasts**  
+Yilin Qian, Ryan Thompson, and Andrey Vasnev  
+2022 [[arXiv](https://arxiv.org/abs/2207.07318)]
+
+::: 
+
+::: g-col-4
+
+![](resources/global-01.png){width="50px"}
+![](resources/global-02.png){width="50px"}
+![](resources/global-03.png){width="50px"}
+![](resources/global-04.png){width="50px"}
+![](resources/global-05.png){width="50px"}
+![](resources/global-06.png){width="50px"}
+
+:::
+
+:::
+
+::: grid
+
+::: g-col-7
+
+**Familial inference**  
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia  
+2022 [[arXiv](https://arxiv.org/abs/2202.12540)]
+
+::: 
+
+::: g-col-4
+
+![](resources/familial-01.png){width="50px"}
+![](resources/familial-02.png){width="50px"}
+![](resources/familial-03.png){width="50px"}
+![](resources/familial-04.png){width="50px"}
+![](resources/familial-05.png){width="50px"}
+![](resources/familial-06.png){width="50px"}
+
+:::
+
+:::
+
+::: grid
+
+::: g-col-7
+
+**Group selection and shrinkage: Structured sparsity for semiparametric models**  
+Ryan Thompson and Farshid Vahid  
+2022 [[arXiv](https://arxiv.org/abs/2105.12081)]
+
+::: 
+
+::: g-col-4
+
+![](resources/group-01.png){width="50px"}
+![](resources/group-02.png){width="50px"}
+![](resources/group-03.png){width="50px"}
+![](resources/group-04.png){width="50px"}
+![](resources/group-05.png){width="50px"}
+![](resources/group-06.png){width="50px"}
+
+:::
+
+:::
+
+---
+
+<center><small>Last updated: `r format(Sys.time(), '%B %d, %Y')`.</small></center>

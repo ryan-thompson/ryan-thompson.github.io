@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - icon: envelope-fill
+        href: mailto:ryan.thompson1@unsw.edu.au
+      - icon: linkedin
+        href: https://au.linkedin.com/in/r-thompson
+      - icon: mortarboard-fill
+        href: https://scholar.google.com.au/citations?user=rQx30dcAAAAJ
+      - icon: github
+        href: https://github.com/ryan-thompson
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    fontsize: 0.9em
+    page-layout: full

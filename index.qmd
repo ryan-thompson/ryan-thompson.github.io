@@ -1,0 +1,31 @@
+---
+title: "Ryan Thompson"
+---
+
+---
+
+::: grid
+
+::: g-col-3
+
+![](resources/photo.jpg)
+
+:::
+
+::: g-col-8
+
+Hi! I'm a Research Associate (postdoc) in the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in [Data61](https://data61.csiro.au/) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO). I'm also a member of the [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash).
+
+My scientific research interests lie in statistical learning. I particularly enjoy working on high-dimensional problems---challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.
+
+Prior to joining UNSW/CSIRO, I was a postgraduate student in the Department of Econometrics and Business Statistics at Monash University. Before that, I spent two years consulting financial institutions on quantitative risk management. I completed my undergraduate studies at the University of Sydney.
+
+**My curriculum vitae is available [here](resources/RyanThompson_CV.pdf).**
+
+:::
+
+:::
+
+---
+
+<center><small>Last updated: `r format(Sys.time(), '%B %d, %Y')`.</small></center>
