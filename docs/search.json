@@ -4,27 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ryan Thompson",
     "section": "",
-    "text": "Hi! I’m a Research Associate (postdoc) in the School of Mathematics and Statistics at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in Data61 at the Commonwealth Scientific and Industrial Research Organisation (CSIRO). I’m also a member of the UNSW Data Science Hub.\nMy scientific research interests lie in statistical learning. I particularly enjoy working on high-dimensional problems—challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.\nPrior to joining UNSW/CSIRO, I was a postgraduate student in the Department of Econometrics and Business Statistics at Monash University. Before that, I spent two years consulting financial institutions on quantitative risk management. I completed my undergraduate studies at the University of Sydney.\nMy curriculum vitae is available here.\n\n\n\n\nLast updated: September 01, 2022."
+    "text": "Hi! I’m a Research Associate (postdoc) in the School of Mathematics and Statistics at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in Data61 at the Commonwealth Scientific and Industrial Research Organisation (CSIRO). I’m also a member of the UNSW Data Science Hub.\nMy scientific research interests lie in statistical learning. I particularly enjoy working on high-dimensional problems—challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.\nPrior to joining UNSW/CSIRO, I was a postgraduate student in the Department of Econometrics and Business Statistics at Monash University. Before that, I spent two years consulting financial institutions on quantitative risk management. I completed my undergraduate studies at the University of Sydney.\nMy curriculum vitae is available here.\n\n\n\n\nLast updated: March 06, 2023."
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Applied forecasting\nSemester 1 2022 [ETC3550, ETC5550]\nMonash University\nApplied forecasting\nSemester 1 2021 [ETC3550, ETC5550]\nMonash University\nApplied forecasting\nSemester 1 2020 [ETC3550, ETC5550]\nMonash University\nBusiness forecasting\nSemester 1 2019 [ETF3231, ETF5231]\nMonash University\nQuantitative business analysis\nSemester 1 2016 [BUSS1020]\nUniversity of Sydney\n\n\n \n \n \nPrinciples of econometrics\nSemester 2 2021 [ETC3400, ETC5340]\nMonash University\nStatistical thinking\nSemester 2 2020 [ETC2420, ETC5242]\nMonash University\nStatistical thinking\nSemester 2 2019 [ETC2420, ETC5242]\nMonash University\nQuantitative business analysis\nSemester 2 2016 [BUSS1020]\nUniversity of Sydney\n\n\n\n\nLast updated: September 01, 2022."
+    "text": "Applied forecasting\nSemester 1 2022 [ETC3550, ETC5550]\nMonash University\nApplied forecasting\nSemester 1 2021 [ETC3550, ETC5550]\nMonash University\nApplied forecasting\nSemester 1 2020 [ETC3550, ETC5550]\nMonash University\nBusiness forecasting\nSemester 1 2019 [ETF3231, ETF5231]\nMonash University\nQuantitative business analysis\nSemester 1 2016 [BUSS1020]\nUniversity of Sydney\n\n\n \n \n \nPrinciples of econometrics\nSemester 2 2021 [ETC3400, ETC5340]\nMonash University\nStatistical thinking\nSemester 2 2020 [ETC2420, ETC5242]\nMonash University\nStatistical thinking\nSemester 2 2019 [ETC2420, ETC5242]\nMonash University\nQuantitative business analysis\nSemester 2 2016 [BUSS1020]\nUniversity of Sydney\n\n\n\n\nLast updated: March 03, 2023."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Publications\n\n\nRobust subset selection\nRyan Thompson\nComputational Statistics and Data Analysis, 2022 [arXiv]\n\n\n     \n\n\n\n\nOptimal selection of expert forecasts with integer programming\nDmytro Matsypura, Ryan Thompson, and Andrey Vasnev\nOmega, 2018 [SSRN]\n\n\n     \n\n\nPreprints\n\n\nGlobal combinations of expert forecasts\nYilin Qian, Ryan Thompson, and Andrey Vasnev\n2022 [arXiv]\n\n\n     \n\n\n\n\nFamilial inference\nRyan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\n2022 [arXiv]\n\n\n     \n\n\n\n\nGroup selection and shrinkage: Structured sparsity for semiparametric models\nRyan Thompson and Farshid Vahid\n2022 [arXiv]\n\n\n     \n\n\n\n\nLast updated: September 01, 2022."
+    "text": "Publications\n\n\nRobust subset selection\nRyan Thompson\nComputational Statistics and Data Analysis, 2022 [arXiv]\n\n\n     \n\n\n\n\nOptimal selection of expert forecasts with integer programming\nDmytro Matsypura, Ryan Thompson, and Andrey Vasnev\nOmega, 2018 [SSRN]\n\n\n     \n\n\nPreprints\n\n\ngmmsslm: Semi-supervised Gaussian mixture modeling with a missing data\nmechanism in R\nZiyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\n2023 [arXiv]\n\n\n     \n\n\n\n\nThe contextual lasso: Sparse linear models via deep neural networks\nRyan Thompson, Amir Dezfouli, and Robert Kohn\n2023 [arXiv]\n\n\n     \n\n\n\n\nGlobal combinations of expert forecasts\nYilin Qian, Ryan Thompson, and Andrey Vasnev\n2022 [arXiv]\n\n\n     \n\n\n\n\nFamilial inference\nRyan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\n2022 [arXiv]\n\n\n     \n\n\n\n\nGroup selection and shrinkage: Structured sparsity for semiparametric models\nRyan Thompson and Farshid Vahid\n2022 [arXiv]\n\n\n     \n\n\n\n\nLast updated: March 03, 2023."
   }
 ]
