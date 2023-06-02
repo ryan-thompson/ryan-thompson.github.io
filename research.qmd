@@ -1,5 +1,6 @@
 ---
 title: "Research"
+engine: knitr
 editor: 
   markdown: 
     wrap: 72
@@ -49,19 +50,18 @@ Omega, 2018
 
 ::: grid
 ::: g-col-7
-**gmmsslm: Semi-supervised Gaussian mixture modeling with a missing data**\
-**mechanism in R**\
+**Semi-supervised Gaussian mixture modeling with a missing data mechanism in R**\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 2023 \[[arXiv](https://arxiv.org/abs/2302.13206)\]
 :::
 
 ::: g-col-4
-![](resources/gmmsslm-01.png){width="50px"}
-![](resources/gmmsslm-02.png){width="50px"}
-![](resources/gmmsslm-03.png){width="50px"}
-![](resources/gmmsslm-04.png){width="50px"}
-![](resources/gmmsslm-05.png){width="50px"}
-![](resources/gmmsslm-06.png){width="50px"}
+![](resources/semi-supervised-01.png){width="50px"}
+![](resources/semi-supervised-02.png){width="50px"}
+![](resources/semi-supervised-03.png){width="50px"}
+![](resources/semi-supervised-04.png){width="50px"}
+![](resources/semi-supervised-05.png){width="50px"}
+![](resources/semi-supervised-06.png){width="50px"}
 :::
 :::
 
@@ -136,5 +136,4 @@ Ryan Thompson and Farshid Vahid\
 
 ------------------------------------------------------------------------
 
-<center><small>Last updated:
-`r format(Sys.time(), '%B %d, %Y')`.</small></center>
+<center><small>Last updated: `r format(Sys.time(), '%B %d, %Y')`.</small></center>
