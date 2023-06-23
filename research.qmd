@@ -84,6 +84,23 @@ Ryan Thompson, Amir Dezfouli, and Robert Kohn\
 
 ::: grid
 ::: g-col-7
+**Familial inference: Tests for hypotheses on a family of centres**\
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
+2023 \[[arXiv](https://arxiv.org/abs/2202.12540)\]
+:::
+
+::: g-col-4
+![](resources/familial-01.png){width="50px"}
+![](resources/familial-02.png){width="50px"}
+![](resources/familial-03.png){width="50px"}
+![](resources/familial-04.png){width="50px"}
+![](resources/familial-05.png){width="50px"}
+![](resources/familial-06.png){width="50px"}
+:::
+:::
+
+::: grid
+::: g-col-7
 **Global combinations of expert forecasts**\
 Yilin Qian, Ryan Thompson, and Andrey Vasnev\
 2022 \[[arXiv](https://arxiv.org/abs/2207.07318)\]
@@ -96,23 +113,6 @@ Yilin Qian, Ryan Thompson, and Andrey Vasnev\
 ![](resources/global-04.png){width="50px"}
 ![](resources/global-05.png){width="50px"}
 ![](resources/global-06.png){width="50px"}
-:::
-:::
-
-::: grid
-::: g-col-7
-**Familial inference**\
-Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-2022 \[[arXiv](https://arxiv.org/abs/2202.12540)\]
-:::
-
-::: g-col-4
-![](resources/familial-01.png){width="50px"}
-![](resources/familial-02.png){width="50px"}
-![](resources/familial-03.png){width="50px"}
-![](resources/familial-04.png){width="50px"}
-![](resources/familial-05.png){width="50px"}
-![](resources/familial-06.png){width="50px"}
 :::
 :::
 
