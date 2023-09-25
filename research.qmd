@@ -12,6 +12,23 @@ editor:
 
 ::: grid
 ::: g-col-7
+**The contextual lasso: Sparse linear models via deep neural networks**\
+Ryan Thompson, Amir Dezfouli, and Robert Kohn\
+Advances in Neural Information Processing Systems, 2023 \[[arXiv](https://arxiv.org/abs/2302.00878)\]
+:::
+
+::: g-col-4
+![](resources/contextual-01.png){width="50px"}
+![](resources/contextual-02.png){width="50px"}
+![](resources/contextual-03.png){width="50px"}
+![](resources/contextual-04.png){width="50px"}
+![](resources/contextual-05.png){width="50px"}
+![](resources/contextual-06.png){width="50px"}
+:::
+:::
+
+::: grid
+::: g-col-7
 **Robust subset selection**\
 Ryan Thompson\
 Computational Statistics and Data Analysis, 2022
@@ -62,23 +79,6 @@ Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 ![](resources/semi-supervised-04.png){width="50px"}
 ![](resources/semi-supervised-05.png){width="50px"}
 ![](resources/semi-supervised-06.png){width="50px"}
-:::
-:::
-
-::: grid
-::: g-col-7
-**The contextual lasso: Sparse linear models via deep neural networks**\
-Ryan Thompson, Amir Dezfouli, and Robert Kohn\
-2023 \[[arXiv](https://arxiv.org/abs/2302.00878)\]
-:::
-
-::: g-col-4
-![](resources/contextual-01.png){width="50px"}
-![](resources/contextual-02.png){width="50px"}
-![](resources/contextual-03.png){width="50px"}
-![](resources/contextual-04.png){width="50px"}
-![](resources/contextual-05.png){width="50px"}
-![](resources/contextual-06.png){width="50px"}
 :::
 :::
 
