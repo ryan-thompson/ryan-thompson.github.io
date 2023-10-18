@@ -12,6 +12,23 @@ editor:
 
 ::: grid
 ::: g-col-7
+**Familial inference: Tests for hypotheses on a family of centres**\
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
+Biometrika, 2023+ \[[arXiv](https://arxiv.org/abs/2202.12540)\]
+:::
+
+::: g-col-4
+![](resources/familial-01.png){width="50px"}
+![](resources/familial-02.png){width="50px"}
+![](resources/familial-03.png){width="50px"}
+![](resources/familial-04.png){width="50px"}
+![](resources/familial-05.png){width="50px"}
+![](resources/familial-06.png){width="50px"}
+:::
+:::
+
+::: grid
+::: g-col-7
 **The contextual lasso: Sparse linear models via deep neural networks**\
 Ryan Thompson, Amir Dezfouli, and Robert Kohn\
 Advances in Neural Information Processing Systems, 2023 \[[arXiv](https://arxiv.org/abs/2302.00878)\]
@@ -67,7 +84,7 @@ Omega, 2018
 
 ::: grid
 ::: g-col-7
-**Semi-supervised Gaussian mixture modeling with a missing data mechanism in R**\
+**Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 2023 \[[arXiv](https://arxiv.org/abs/2302.13206)\]
 :::
@@ -84,26 +101,9 @@ Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 
 ::: grid
 ::: g-col-7
-**Familial inference: Tests for hypotheses on a family of centres**\
-Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-2023 \[[arXiv](https://arxiv.org/abs/2202.12540)\]
-:::
-
-::: g-col-4
-![](resources/familial-01.png){width="50px"}
-![](resources/familial-02.png){width="50px"}
-![](resources/familial-03.png){width="50px"}
-![](resources/familial-04.png){width="50px"}
-![](resources/familial-05.png){width="50px"}
-![](resources/familial-06.png){width="50px"}
-:::
-:::
-
-::: grid
-::: g-col-7
-**Global combinations of expert forecasts**\
-Yilin Qian, Ryan Thompson, and Andrey Vasnev\
-2022 \[[arXiv](https://arxiv.org/abs/2207.07318)\]
+**Flexible global forecast combinations**\
+Ryan Thompson, Yilin Qian, and Andrey Vasnev\
+2023 \[[arXiv](https://arxiv.org/abs/2207.07318)\]
 :::
 
 ::: g-col-4
