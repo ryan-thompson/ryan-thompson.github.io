@@ -66,7 +66,7 @@ Computational Statistics and Data Analysis, 2022
 ::: g-col-7
 **Optimal selection of expert forecasts with integer programming**\
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev\
-Omega, 2018
+Omega: The International Journal of Management Science, 2018
 \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)\]
 :::
 
