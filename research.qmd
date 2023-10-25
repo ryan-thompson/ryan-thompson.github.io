@@ -101,6 +101,24 @@ Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 
 ::: grid
 ::: g-col-7
+**Contextual directed acyclic graphs**\
+Ryan Thompson, Edwin Bonilla, and Robert Kohn\
+2023 \[[arXiv](https://arxiv.org/abs/2310.15627)\]
+:::
+
+::: g-col-4
+![](resources/directed-01.png){width="50px"}
+![](resources/directed-02.png){width="50px"}
+![](resources/directed-03.png){width="50px"}
+![](resources/directed-04.png){width="50px"}
+![](resources/directed-05.png){width="50px"}
+![](resources/directed-06.png){width="50px"}
+:::
+:::
+
+
+::: grid
+::: g-col-7
 **Flexible global forecast combinations**\
 Ryan Thompson, Yilin Qian, and Andrey Vasnev\
 2023 \[[arXiv](https://arxiv.org/abs/2207.07318)\]
