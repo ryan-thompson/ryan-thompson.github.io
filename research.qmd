@@ -12,18 +12,18 @@ editor:
 
 ::: grid
 ::: g-col-7
-**Familial inference: Tests for hypotheses on a family of centres**\
-Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-Biometrika, 2023+ \[[arXiv](https://arxiv.org/abs/2202.12540)\]
+**Contextual directed acyclic graphs**\
+Ryan Thompson, Edwin Bonilla, and Robert Kohn\
+International Conference on Artificial Intelligence and Statistics, 2024 \[[arXiv](https://arxiv.org/abs/2310.15627)\]
 :::
 
 ::: g-col-4
-![](resources/familial-01.png){width="50px"}
-![](resources/familial-02.png){width="50px"}
-![](resources/familial-03.png){width="50px"}
-![](resources/familial-04.png){width="50px"}
-![](resources/familial-05.png){width="50px"}
-![](resources/familial-06.png){width="50px"}
+![](resources/directed-01.png){width="50px"}
+![](resources/directed-02.png){width="50px"}
+![](resources/directed-03.png){width="50px"}
+![](resources/directed-04.png){width="50px"}
+![](resources/directed-05.png){width="50px"}
+![](resources/directed-06.png){width="50px"}
 :::
 :::
 
@@ -41,6 +41,23 @@ Advances in Neural Information Processing Systems, 2023 \[[arXiv](https://arxiv.
 ![](resources/contextual-04.png){width="50px"}
 ![](resources/contextual-05.png){width="50px"}
 ![](resources/contextual-06.png){width="50px"}
+:::
+:::
+
+::: grid
+::: g-col-7
+**Familial inference: Tests for hypotheses on a family of centres**\
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
+Biometrika, 2023 \[[arXiv](https://arxiv.org/abs/2202.12540)\]
+:::
+
+::: g-col-4
+![](resources/familial-01.png){width="50px"}
+![](resources/familial-02.png){width="50px"}
+![](resources/familial-03.png){width="50px"}
+![](resources/familial-04.png){width="50px"}
+![](resources/familial-05.png){width="50px"}
+![](resources/familial-06.png){width="50px"}
 :::
 :::
 
@@ -98,24 +115,6 @@ Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 ![](resources/semi-supervised-06.png){width="50px"}
 :::
 :::
-
-::: grid
-::: g-col-7
-**Contextual directed acyclic graphs**\
-Ryan Thompson, Edwin Bonilla, and Robert Kohn\
-2023 \[[arXiv](https://arxiv.org/abs/2310.15627)\]
-:::
-
-::: g-col-4
-![](resources/directed-01.png){width="50px"}
-![](resources/directed-02.png){width="50px"}
-![](resources/directed-03.png){width="50px"}
-![](resources/directed-04.png){width="50px"}
-![](resources/directed-05.png){width="50px"}
-![](resources/directed-06.png){width="50px"}
-:::
-:::
-
 
 ::: grid
 ::: g-col-7
