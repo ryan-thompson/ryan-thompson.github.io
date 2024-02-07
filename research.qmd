@@ -12,6 +12,23 @@ editor:
 
 ::: grid
 ::: g-col-7
+**Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
+Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
+Australian and New Zealand Journal of Statistics, 2024 \[[arXiv](https://arxiv.org/abs/2302.13206)\]
+:::
+
+::: g-col-4
+![](resources/semi-supervised-01.png){width="50px"}
+![](resources/semi-supervised-02.png){width="50px"}
+![](resources/semi-supervised-03.png){width="50px"}
+![](resources/semi-supervised-04.png){width="50px"}
+![](resources/semi-supervised-05.png){width="50px"}
+![](resources/semi-supervised-06.png){width="50px"}
+:::
+:::
+
+::: grid
+::: g-col-7
 **Contextual directed acyclic graphs**\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 International Conference on Artificial Intelligence and Statistics, 2024 \[[arXiv](https://arxiv.org/abs/2310.15627)\]
@@ -98,23 +115,6 @@ Omega: The International Journal of Management Science, 2018
 :::
 
 *Preprints*
-
-::: grid
-::: g-col-7
-**Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
-Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
-2023 \[[arXiv](https://arxiv.org/abs/2302.13206)\]
-:::
-
-::: g-col-4
-![](resources/semi-supervised-01.png){width="50px"}
-![](resources/semi-supervised-02.png){width="50px"}
-![](resources/semi-supervised-03.png){width="50px"}
-![](resources/semi-supervised-04.png){width="50px"}
-![](resources/semi-supervised-05.png){width="50px"}
-![](resources/semi-supervised-06.png){width="50px"}
-:::
-:::
 
 ::: grid
 ::: g-col-7
