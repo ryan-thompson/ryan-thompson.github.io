@@ -11,7 +11,7 @@ editor:
 *Publications*
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/anzjs.png){width="80px"}
 :::
 ::: g-col-8
@@ -24,7 +24,7 @@ Australian and New Zealand Journal of Statistics, 2024\
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/aistats.jpeg){width="80px"}
 :::
 ::: g-col-8
@@ -38,7 +38,7 @@ Proceedings of the 27th International Conference on Artificial Intelligence and 
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/jcgs.jpg){width="80px"}
 :::
 ::: g-col-8
@@ -51,7 +51,7 @@ Journal of Computational and Graphical Statistics, 2024\
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/neurips.png){width="80px"}
 :::
 ::: g-col-8
@@ -64,7 +64,7 @@ Advances in Neural Information Processing Systems, 2023\
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/biometrika.jpeg){width="80px"}
 :::
 ::: g-col-8
@@ -77,7 +77,7 @@ Biometrika, 2023\
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/csda.jpg){width="80px"}
 :::
 ::: g-col-8
@@ -90,7 +90,7 @@ Computational Statistics and Data Analysis, 2022\
 :::
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/omega.jpg){width="80px"}
 :::
 ::: g-col-8
@@ -105,7 +105,7 @@ Omega, 2018\
 *Preprints*
 
 ::: grid
-::: g-col-1
+::: {.column width="80px"}
 ![](resources/arxiv.jpg){width="80px"}
 :::
 ::: g-col-8
