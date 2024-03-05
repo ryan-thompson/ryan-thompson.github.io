@@ -11,143 +11,109 @@ editor:
 *Publications*
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/anzjs.png){width="80px"}
+:::
+::: g-col-8
 **Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
-Australian and New Zealand Journal of Statistics, 2024 \[[arXiv](https://arxiv.org/abs/2302.13206)\]
-:::
-
-::: g-col-4
-![](resources/semi-supervised-01.png){width="50px"}
-![](resources/semi-supervised-02.png){width="50px"}
-![](resources/semi-supervised-03.png){width="50px"}
-![](resources/semi-supervised-04.png){width="50px"}
-![](resources/semi-supervised-05.png){width="50px"}
-![](resources/semi-supervised-06.png){width="50px"}
+Australian and New Zealand Journal of Statistics, 2024\
+\[[Preprint](https://arxiv.org/abs/2302.13206), [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)\]
+\
 :::
 :::
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/aistats.jpeg){width="80px"}
+:::
+::: g-col-8
 **Contextual directed acyclic graphs**\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
-International Conference on Artificial Intelligence and Statistics, 2024 \[[arXiv](https://arxiv.org/abs/2310.15627)\]
-:::
-
-::: g-col-4
-![](resources/directed-01.png){width="50px"}
-![](resources/directed-02.png){width="50px"}
-![](resources/directed-03.png){width="50px"}
-![](resources/directed-04.png){width="50px"}
-![](resources/directed-05.png){width="50px"}
-![](resources/directed-06.png){width="50px"}
+Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024\
+\[[Preprint](https://arxiv.org/abs/2310.15627), [Code](https://github.com/ryan-thompson/ContextualDAG.jl)\]
+\
+\
 :::
 :::
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/jcgs.jpg){width="80px"}
+:::
+::: g-col-8
+**Group selection and shrinkage: Structured sparsity for semiparametric additive models**\
+Ryan Thompson and Farshid Vahid\
+Journal of Computational and Graphical Statistics, 2024\
+\[[Preprint](https://arxiv.org/abs/2105.12081), [Code](https://github.com/ryan-thompson/grpsel)\]
+\
+:::
+:::
+
+::: grid
+::: g-col-1
+![](resources/neurips.png){width="80px"}
+:::
+::: g-col-8
 **The contextual lasso: Sparse linear models via deep neural networks**\
 Ryan Thompson, Amir Dezfouli, and Robert Kohn\
-Advances in Neural Information Processing Systems, 2023 \[[arXiv](https://arxiv.org/abs/2302.00878)\]
-:::
-
-::: g-col-4
-![](resources/contextual-01.png){width="50px"}
-![](resources/contextual-02.png){width="50px"}
-![](resources/contextual-03.png){width="50px"}
-![](resources/contextual-04.png){width="50px"}
-![](resources/contextual-05.png){width="50px"}
-![](resources/contextual-06.png){width="50px"}
+Advances in Neural Information Processing Systems, 2023\
+\[[Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html), [Preprint](https://arxiv.org/abs/2302.00878), [Code](https://github.com/ryan-thompson/ContextualLasso.jl)\]\
+\
 :::
 :::
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/biometrika.jpeg){width="80px"}
+:::
+::: g-col-8
 **Familial inference: Tests for hypotheses on a family of centres**\
 Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-Biometrika, 2023 \[[arXiv](https://arxiv.org/abs/2202.12540)\]
-:::
-
-::: g-col-4
-![](resources/familial-01.png){width="50px"}
-![](resources/familial-02.png){width="50px"}
-![](resources/familial-03.png){width="50px"}
-![](resources/familial-04.png){width="50px"}
-![](resources/familial-05.png){width="50px"}
-![](resources/familial-06.png){width="50px"}
+Biometrika, 2023\
+\[[Publication](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asad074/7453377), [Preprint](https://arxiv.org/abs/2202.12540), [Code](https://github.com/ryan-thompson/familial)\]
+\
 :::
 :::
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/csda.jpg){width="80px"}
+:::
+::: g-col-8
 **Robust subset selection**\
 Ryan Thompson\
-Computational Statistics and Data Analysis, 2022
-\[[arXiv](https://arxiv.org/abs/2005.08217)\]
-:::
-
-::: g-col-4
-![](resources/robust-01.png){width="50px"}
-![](resources/robust-02.png){width="50px"}
-![](resources/robust-03.png){width="50px"}
-![](resources/robust-04.png){width="50px"}
-![](resources/robust-05.png){width="50px"}
-![](resources/robust-06.png){width="50px"}
+Computational Statistics and Data Analysis, 2022\
+\[[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002498), [Preprint](https://arxiv.org/abs/2005.08217), [Code](https://github.com/ryan-thompson/robustsubsets)\]
+\
 :::
 :::
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/omega.jpg){width="80px"}
+:::
+::: g-col-8
 **Optimal selection of expert forecasts with integer programming**\
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev\
-Omega: The International Journal of Management Science, 2018
-\[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)\]
-:::
-
-::: g-col-4
-![](resources/optimal-01.png){width="50px"}
-![](resources/optimal-02.png){width="50px"}
-![](resources/optimal-03.png){width="50px"}
-![](resources/optimal-04.png){width="50px"}
-![](resources/optimal-05.png){width="50px"}
-![](resources/optimal-06.png){width="50px"}
+Omega, 2018\
+\[[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300130), [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)\]
+\
 :::
 :::
 
 *Preprints*
 
 ::: grid
-::: g-col-7
+::: g-col-1
+![](resources/arxiv.jpg){width="80px"}
+:::
+::: g-col-8
 **Flexible global forecast combinations**\
 Ryan Thompson, Yilin Qian, and Andrey Vasnev\
-2023 \[[arXiv](https://arxiv.org/abs/2207.07318)\]
-:::
-
-::: g-col-4
-![](resources/global-01.png){width="50px"}
-![](resources/global-02.png){width="50px"}
-![](resources/global-03.png){width="50px"}
-![](resources/global-04.png){width="50px"}
-![](resources/global-05.png){width="50px"}
-![](resources/global-06.png){width="50px"}
-:::
-:::
-
-::: grid
-::: g-col-7
-**Group selection and shrinkage: Structured sparsity for semiparametric
-models**\
-Ryan Thompson and Farshid Vahid\
-2022 \[[arXiv](https://arxiv.org/abs/2105.12081)\]
-:::
-
-::: g-col-4
-![](resources/group-01.png){width="50px"}
-![](resources/group-02.png){width="50px"}
-![](resources/group-03.png){width="50px"}
-![](resources/group-04.png){width="50px"}
-![](resources/group-05.png){width="50px"}
-![](resources/group-06.png){width="50px"}
+2023\
+\[[Preprint](https://arxiv.org/abs/2207.07318), [Code](https://github.com/ryan-thompson/global-combinations)\]
+\
 :::
 :::
 
