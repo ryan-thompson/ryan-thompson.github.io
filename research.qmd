@@ -14,7 +14,7 @@ editor:
 ::: {.column width="80px"}
 ![](resources/anzjs.png){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 Australian and New Zealand Journal of Statistics, 2024\
@@ -25,9 +25,9 @@ Australian and New Zealand Journal of Statistics, 2024\
 
 ::: grid
 ::: {.column width="80px"}
-![](resources/aistats.jpeg){width="80px"}
+![](resources/aistats.jpg){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Contextual directed acyclic graphs**\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024\
@@ -39,9 +39,9 @@ Proceedings of the 27th International Conference on Artificial Intelligence and 
 
 ::: grid
 ::: {.column width="80px"}
-![](resources/jcgs.jpg){width="80px"}
+![](resources/jcgs.png){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Group selection and shrinkage: Structured sparsity for semiparametric additive models**\
 Ryan Thompson and Farshid Vahid\
 Journal of Computational and Graphical Statistics, 2024\
@@ -54,7 +54,7 @@ Journal of Computational and Graphical Statistics, 2024\
 ::: {.column width="80px"}
 ![](resources/neurips.png){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **The contextual lasso: Sparse linear models via deep neural networks**\
 Ryan Thompson, Amir Dezfouli, and Robert Kohn\
 Advances in Neural Information Processing Systems, 2023\
@@ -67,7 +67,7 @@ Advances in Neural Information Processing Systems, 2023\
 ::: {.column width="80px"}
 ![](resources/biometrika.jpeg){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Familial inference: Tests for hypotheses on a family of centres**\
 Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
 Biometrika, 2023\
@@ -80,7 +80,7 @@ Biometrika, 2023\
 ::: {.column width="80px"}
 ![](resources/csda.jpg){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Robust subset selection**\
 Ryan Thompson\
 Computational Statistics and Data Analysis, 2022\
@@ -93,7 +93,7 @@ Computational Statistics and Data Analysis, 2022\
 ::: {.column width="80px"}
 ![](resources/omega.jpg){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Optimal selection of expert forecasts with integer programming**\
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev\
 Omega, 2018\
@@ -108,7 +108,7 @@ Omega, 2018\
 ::: {.column width="80px"}
 ![](resources/arxiv.jpg){width="80px"}
 :::
-::: g-col-8
+::: g-col-10
 **Flexible global forecast combinations**\
 Ryan Thompson, Yilin Qian, and Andrey Vasnev\
 2023\
