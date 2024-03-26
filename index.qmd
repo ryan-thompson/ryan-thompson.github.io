@@ -15,7 +15,7 @@ engine: knitr
 
 ::: g-col-8
 
-Hi! I'm a Research Associate (postdoc) in the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in [Data61](https://data61.csiro.au) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO). I'm also a member of the [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash).
+Hi! I'm a Research Associate (postdoc) in the [School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths) at the University of New South Wales (UNSW) in Sydney, Australia, and a Visiting Scientist in the [Analytics and Decision Sciences](https://research.csiro.au/ads/) program at CSIRO's Data61. I'm also a member of the [UNSW Data Science Hub](https://www.unsw.edu.au/research/udash).
 
 My scientific research interests lie in statistical learning. I particularly enjoy working on high-dimensional problems---challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.
 

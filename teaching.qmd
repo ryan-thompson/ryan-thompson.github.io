@@ -5,56 +5,74 @@ engine: knitr
 
 ---
 
+**2022**
+
 ::: grid
-
 ::: g-col-6
-
-**Applied forecasting**  
-Semester 1 2022 [[ETC3550](https://handbook.monash.edu/2022/units/ETC3550), [ETC5550](https://handbook.monash.edu/2022/units/ETC5550)]  
-Monash University
-
-**Applied forecasting**  
-Semester 1 2021 [[ETC3550](https://handbook.monash.edu/2021/units/ETC3550), [ETC5550](https://handbook.monash.edu/2021/units/ETC5550)]  
-Monash University
-
-**Applied forecasting**  
-Semester 1 2020 [[ETC3550](https://handbook.monash.edu/2020/units/ETC3550), [ETC5550](https://handbook.monash.edu/2020/units/ETC5550)]  
-Monash University
-
-**Business forecasting**  
-Semester 1 2019 [[ETF3231](https://www3.monash.edu/pubs/2019handbooks/units/ETF3231.html), [ETF5231](https://www3.monash.edu/pubs/2019handbooks/units/ETF5231.html)]  
-Monash University
-
-**Quantitative business analysis**  
-Semester 1 2016 [BUSS1020]  
-University of Sydney
-
+Applied forecasting\
+Semester 1, Monash University\
+[ETC3550](https://handbook.monash.edu/2022/units/ETC3550) - [ETC5550](https://handbook.monash.edu/2022/units/ETC5550)
+:::
 :::
 
+**2021**
+
+::: grid
 ::: g-col-6
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
-**Principles of econometrics**  
-Semester 2 2021 [[ETC3400](https://handbook.monash.edu/2021/units/ETC3400), [ETC5340](https://handbook.monash.edu/2021/units/ETC5340)]  
-Monash University
-
-**Statistical thinking**  
-Semester 2 2020 [[ETC2420](https://handbook.monash.edu/2020/units/ETC2420), [ETC5242](https://handbook.monash.edu/2020/units/ETC5242)]  
-Monash University
-
-**Statistical thinking**  
-Semester 2 2019 [[ETC2420](https://www3.monash.edu/pubs/2019handbooks/units/ETC2420.html), [ETC5242](https://www3.monash.edu/pubs/2019handbooks/units/ETC5242.html)]  
-Monash University
-
-**Quantitative business analysis**  
-Semester 2 2016 [BUSS1020]  
-University of Sydney
-
+Applied forecasting\
+Semester 1, Monash University\
+[ETC3550](https://handbook.monash.edu/2021/units/ETC3550) - [ETC5550](https://handbook.monash.edu/2021/units/ETC5550)
+:::
+::: g-col-6
+Principles of econometrics\
+Semester 2, Monash University\
+[ETC3400](https://handbook.monash.edu/2021/units/ETC3400) - [ETC5340](https://handbook.monash.edu/2021/units/ETC534)
+:::
 :::
 
+**2020**
+
+::: grid
+::: g-col-6
+Applied forecasting\
+Semester 1, Monash University\
+[ETC3550](https://handbook.monash.edu/2020/units/ETC3550) - [ETC5550](https://handbook.monash.edu/2020/units/ETC5550)
+:::
+::: g-col-6
+Statistical thinking\
+Semester 2, Monash University\
+[ETC2420](https://handbook.monash.edu/2020/units/ETC2420) - [ETC5242](https://handbook.monash.edu/2020/units/ETC5242)
+:::
+:::
+
+**2019**
+
+::: grid
+::: g-col-6
+Business forecasting\
+Semester 1, Monash University\
+[ETF3231](https://www3.monash.edu/pubs/2019handbooks/units/ETF3231.html) - [ETF5231](https://www3.monash.edu/pubs/2019handbooks/units/ETF5231.html)
+:::
+::: g-col-6
+Statistical thinking\
+Semester 2, Monash University\
+[ETC2420](https://www3.monash.edu/pubs/2019handbooks/units/ETC2420.html) - [ETC5242](https://www3.monash.edu/pubs/2019handbooks/units/ETC5242.html)
+:::
+:::
+
+**2016**
+
+::: grid
+::: g-col-6
+Quantitative business analysis\
+Semester 1, University of Sydney\
+BUSS1020
+:::
+::: g-col-6
+Quantitative business analysis\
+Semester 2, University of Sydney\
+BUSS1020
+:::
 :::
 
 ---

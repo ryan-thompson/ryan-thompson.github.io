@@ -8,17 +8,19 @@ editor:
 
 ------------------------------------------------------------------------
 
-<!-- *Publications* -->
+<!-- Publications -->
+
+**2024**
 
 ::: grid
 ::: {.column width="80px"}
 ![](resources/anzjs.png){width="80px"}
 :::
 ::: g-col-10
-**Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**\
+Semi-supervised Gaussian mixture modelling with a missing data mechanism in R\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
-Australian and New Zealand Journal of Statistics, 2024\
-[Preprint](https://arxiv.org/abs/2302.13206), [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)
+Australian and New Zealand Journal of Statistics\
+[Preprint](https://arxiv.org/abs/2302.13206) - [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)\
 \
 :::
 :::
@@ -28,11 +30,10 @@ Australian and New Zealand Journal of Statistics, 2024\
 ![](resources/aistats.jpg){width="80px"}
 :::
 ::: g-col-10
-**Contextual directed acyclic graphs**\
+Contextual directed acyclic graphs\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
-Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024\
-[Preprint](https://arxiv.org/abs/2310.15627), [Code](https://github.com/ryan-thompson/ContextualDAG.jl)
-\
+Proceedings of the 27th International Conference on Artificial Intelligence and Statistics\
+[Preprint](https://arxiv.org/abs/2310.15627) - [Code](https://github.com/ryan-thompson/ContextualDAG.jl)\
 \
 :::
 :::
@@ -42,10 +43,10 @@ Proceedings of the 27th International Conference on Artificial Intelligence and 
 ![](resources/omega.jpg){width="80px"}
 :::
 ::: g-col-10
-**Flexible global forecast combinations**\
+Flexible global forecast combinations\
 Ryan Thompson, Yilin Qian, and Andrey Vasnev\
-Omega, 2024\
-[Preprint](https://arxiv.org/abs/2207.07318), [Code](https://github.com/ryan-thompson/global-combinations)
+Omega\
+[Publication](https://www.sciencedirect.com/science/article/pii/S0305048324000409) - [Preprint](https://arxiv.org/abs/2207.07318) - [Code](https://github.com/ryan-thompson/global-combinations)\
 \
 :::
 :::
@@ -55,23 +56,26 @@ Omega, 2024\
 ![](resources/jcgs.png){width="80px"}
 :::
 ::: g-col-10
-**Group selection and shrinkage: Structured sparsity for semiparametric additive models**\
+Group selection and shrinkage: Structured sparsity for semiparametric additive models\
 Ryan Thompson and Farshid Vahid\
-Journal of Computational and Graphical Statistics, 2024\
-[Preprint](https://arxiv.org/abs/2105.12081), [Code](https://github.com/ryan-thompson/grpsel)
+Journal of Computational and Graphical Statistics\
+[Preprint](https://arxiv.org/abs/2105.12081) - [Code](https://github.com/ryan-thompson/grpsel)\
+\
 \
 :::
 :::
+
+**2023**
 
 ::: grid
 ::: {.column width="80px"}
 ![](resources/neurips.png){width="80px"}
 :::
 ::: g-col-10
-**The contextual lasso: Sparse linear models via deep neural networks**\
+The contextual lasso: Sparse linear models via deep neural networks\
 Ryan Thompson, Amir Dezfouli, and Robert Kohn\
-Advances in Neural Information Processing Systems, 2023\
-[Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html), [Preprint](https://arxiv.org/abs/2302.00878), [Code](https://github.com/ryan-thompson/ContextualLasso.jl)\
+Advances in Neural Information Processing Systems\
+[Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html) - [Preprint](https://arxiv.org/abs/2302.00878) - [Code](https://github.com/ryan-thompson/ContextualLasso.jl)\
 \
 :::
 :::
@@ -81,41 +85,47 @@ Advances in Neural Information Processing Systems, 2023\
 ![](resources/biometrika.jpeg){width="80px"}
 :::
 ::: g-col-10
-**Familial inference: Tests for hypotheses on a family of centres**\
+Familial inference: Tests for hypotheses on a family of centres\
 Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-Biometrika, 2023\
-[Publication](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asad074/7453377), [Preprint](https://arxiv.org/abs/2202.12540), [Code](https://github.com/ryan-thompson/familial)
+Biometrika\
+[Publication](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asad074/7453377) - [Preprint](https://arxiv.org/abs/2202.12540) - [Code](https://github.com/ryan-thompson/familial)\
+\
 \
 :::
 :::
+
+**2022**
 
 ::: grid
 ::: {.column width="80px"}
 ![](resources/csda.jpg){width="80px"}
 :::
 ::: g-col-10
-**Robust subset selection**\
+Robust subset selection\
 Ryan Thompson\
-Computational Statistics and Data Analysis, 2022\
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002498), [Preprint](https://arxiv.org/abs/2005.08217), [Code](https://github.com/ryan-thompson/robustsubsets)
+Computational Statistics and Data Analysis\
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002498) - [Preprint](https://arxiv.org/abs/2005.08217) - [Code](https://github.com/ryan-thompson/robustsubsets)\
+\
 \
 :::
 :::
+
+**2018**
 
 ::: grid
 ::: {.column width="80px"}
 ![](resources/omega.jpg){width="80px"}
 :::
 ::: g-col-10
-**Optimal selection of expert forecasts with integer programming**\
+Optimal selection of expert forecasts with integer programming\
 Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev\
-Omega, 2018\
-[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300130), [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)
+Omega\
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300130) - [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)\
 \
 :::
 :::
 
-<!-- *Preprints* -->
+<!-- Preprints -->
 
 ------------------------------------------------------------------------
 
