@@ -59,7 +59,7 @@ Omega\
 Group selection and shrinkage: Structured sparsity for semiparametric additive models\
 Ryan Thompson and Farshid Vahid\
 Journal of Computational and Graphical Statistics\
-[Preprint](https://arxiv.org/abs/2105.12081) - [Code](https://github.com/ryan-thompson/grpsel)\
+[Publication](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2330517) - [Preprint](https://arxiv.org/abs/2105.12081) - [Code](https://github.com/ryan-thompson/grpsel)\
 \
 \
 :::
