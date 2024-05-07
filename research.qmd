@@ -20,7 +20,7 @@ editor:
 Semi-supervised Gaussian mixture modelling with a missing data mechanism in R\
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan\
 Australian and New Zealand Journal of Statistics\
-[Preprint](https://arxiv.org/abs/2302.13206) - [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)\
+[Publication](https://onlinelibrary.wiley.com/doi/10.1111/anzs.12413) - [Preprint](https://arxiv.org/abs/2302.13206) - [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)\
 \
 :::
 :::
