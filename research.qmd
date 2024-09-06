@@ -14,18 +14,6 @@ editor:
 
 ::: grid
 ::: {.column width="80px"}
-![](resources/arxiv.jpg){width="80px"}
-:::
-::: g-col-10
- ProDAG: Projection-induced variational inference for directed acyclic graphs\
-Ryan Thompson, Edwin Bonilla, and Robert Kohn\
-[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
-\
-:::
-:::
-
-::: grid
-::: {.column width="80px"}
 ![](resources/anzjs.png){width="80px"}
 :::
 ::: g-col-10
@@ -46,6 +34,31 @@ Contextual directed acyclic graphs\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 Proceedings of the 27th International Conference on Artificial Intelligence and Statistics\
 [Publication](https://proceedings.mlr.press/v238/thompson24a.html) - [Preprint](https://arxiv.org/abs/2310.15627) - [Code](https://github.com/ryan-thompson/ContextualDAG.jl)\
+\
+:::
+:::
+
+::: grid
+::: {.column width="80px"}
+![](resources/arxiv.jpg){width="80px"}
+:::
+::: g-col-10
+ ProDAG: Projection-induced variational inference for directed acyclic graphs\
+Ryan Thompson, Edwin Bonilla, and Robert Kohn\
+[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
+\
+:::
+:::
+
+::: grid
+::: {.column width="80px"}
+![](resources/biometrika.jpeg){width="80px"}
+:::
+::: g-col-10
+Familial inference: Tests for hypotheses on a family of centres\
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
+Biometrika\
+[Publication](https://academic.oup.com/biomet/article/111/3/1029/7453377) - [Preprint](https://arxiv.org/abs/2202.12540) - [Code](https://github.com/ryan-thompson/familial)\
 \
 :::
 :::
@@ -88,19 +101,6 @@ The contextual lasso: Sparse linear models via deep neural networks\
 Ryan Thompson, Amir Dezfouli, and Robert Kohn\
 Advances in Neural Information Processing Systems\
 [Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html) - [Preprint](https://arxiv.org/abs/2302.00878) - [Code](https://github.com/ryan-thompson/ContextualLasso.jl)\
-\
-:::
-:::
-
-::: grid
-::: {.column width="80px"}
-![](resources/biometrika.jpeg){width="80px"}
-:::
-::: g-col-10
-Familial inference: Tests for hypotheses on a family of centres\
-Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia\
-Biometrika\
-[Publication](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asad074/7453377) - [Preprint](https://arxiv.org/abs/2202.12540) - [Code](https://github.com/ryan-thompson/familial)\
 \
 \
 :::
