@@ -8,7 +8,21 @@ editor:
 
 ------------------------------------------------------------------------
 
-<!-- Publications -->
+**2025**
+
+::: grid
+::: {.column width="80px"}
+![](resources/arxiv.jpg){width="80px"}
+:::
+::: g-col-10
+ ProDAG: Projection-induced variational inference for directed acyclic graphs\
+Ryan Thompson, Edwin Bonilla, and Robert Kohn\
+[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
+\
+\
+\
+:::
+:::
 
 **2024**
 
@@ -34,18 +48,6 @@ Contextual directed acyclic graphs\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 Proceedings of the 27th International Conference on Artificial Intelligence and Statistics\
 [Publication](https://proceedings.mlr.press/v238/thompson24a.html) - [Preprint](https://arxiv.org/abs/2310.15627) - [Code](https://github.com/ryan-thompson/ContextualDAG.jl)\
-\
-:::
-:::
-
-::: grid
-::: {.column width="80px"}
-![](resources/arxiv.jpg){width="80px"}
-:::
-::: g-col-10
- ProDAG: Projection-induced variational inference for directed acyclic graphs\
-Ryan Thompson, Edwin Bonilla, and Robert Kohn\
-[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
 \
 :::
 :::
@@ -136,8 +138,6 @@ Omega\
 \
 :::
 :::
-
-<!-- Preprints -->
 
 ------------------------------------------------------------------------
 
