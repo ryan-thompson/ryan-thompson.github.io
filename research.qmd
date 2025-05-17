@@ -15,7 +15,7 @@ editor:
 ![](resources/arxiv.jpg){width="80px"}
 :::
 ::: g-col-10
- ProDAG: Projection-induced variational inference for directed acyclic graphs\
+ ProDAG: Projected variational inference for directed acyclic graphs\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 [Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
 \
