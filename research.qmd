@@ -15,7 +15,21 @@ editor:
 ![](resources/arxiv.jpg){width="80px"}
 :::
 ::: g-col-10
- ProDAG: Projected variational inference for directed acyclic graphs\
+Scalable subset selection in linear mixed models\
+Ryan Thompson, Matt Wand, and Joanna Wang\
+[Preprint](https://arxiv.org/abs/2506.20425) - [Code](https://github.com/ryan-thompson/glmmsel)\
+\
+\
+\
+:::
+:::
+
+::: grid
+::: {.column width="80px"}
+![](resources/arxiv.jpg){width="80px"}
+:::
+::: g-col-10
+ProDAG: Projected variational inference for directed acyclic graphs\
 Ryan Thompson, Edwin Bonilla, and Robert Kohn\
 [Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)\
 \
