@@ -8,14 +8,14 @@ engine: knitr
 
 ::: grid
 
-::: g-col-8
+::: g-col-9
 
-I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning on complex data, with an emphasis on approaches that are statistically principled, computationally scalable, and reliably trustworthy.
+I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning on complex data, with an emphasis on approaches that are statistically principled, computationally scalable, and operationally trustworthy.
 
-The main directions of my research can be grouped into a few broad areas of machine learning:
+The main directions of my research fall under a few broad areas of machine learning:
 
 - **Causal discovery**  
-Uncovering the underlying mechanisms that generate observed data, separating true cause-effect relationships from spurious associations to enable deeper scientific understanding.
+Uncovering the underlying mechanisms that generate observed data, separating true cause-and-effect relationships from spurious associations to enable deeper scientific understanding.
 - **High-dimensional learning**  
 Extracting reliable structure and signal from datasets with thousands or millions of measured variables, where classical statistical principles break down and new techniques are needed.
 - **Bayesian inference**  
@@ -41,15 +41,15 @@ Before my current role, I was a Research Associate at the University of New Sout
 
 <p style="margin-top: 2em;"></p>
 
-**Scalable subset selection in linear mixed models**  
-Ryan Thompson, Matt Wand, and Joanna Wang  
-arXiv, 2025  
-[Preprint](https://arxiv.org/abs/2506.20425) - [Code](https://github.com/ryan-thompson/glmmsel)
-
 **ProDAG: Projected variational inference for directed acyclic graphs**  
 Ryan Thompson, Edwin Bonilla, and Robert Kohn  
 arXiv, 2025  
 [Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)
+
+**Scalable subset selection in linear mixed models**  
+Ryan Thompson, Matt Wand, and Joanna Wang  
+arXiv, 2025  
+[Preprint](https://arxiv.org/abs/2506.20425) - [Code](https://github.com/ryan-thompson/glmmsel)
 
 **Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**  
 Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan  
