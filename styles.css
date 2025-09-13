@@ -1,26 +1,22 @@
 /* css styles */
 
-h1.title {
-  font-size: 150%;
+/* Default link color */
+a, a:visited {
+  color: #777777;   /* light grey */
+  text-decoration: none; /* remove underline if you want */
 }
 
-
-a:link {
-  color: mediumblue;
-  text-decoration: none; 
+/* On hover/focus: make them slightly brighter */
+a:hover, a:focus {
+  color: #999999;   /* lighter grey on hover */
+  text-decoration: none; /* or none, depending on your style */
 }
 
-a:visited {
-  color: mediumblue;
-  text-decoration: none; 
-}
-
-a:hover {
-  color: mediumblue;
-  text-decoration: none; 
-}
-
-a:active {
-  color: mediumblue;
-  text-decoration: none; 
+.navbar a,
+.navbar a:visited,
+.navbar a:hover,
+.navbar a:focus {
+  color: inherit !important;       /* use navbar's default text color */
+  text-decoration: none !important;
+  background: none !important;
 }

@@ -1,11 +1,31 @@
 ---
-title: "Ryan Thompson"
 engine: knitr
 ---
 
----
+# About
+
+<p style="margin-top: 2em;"></p>
 
 ::: grid
+
+::: g-col-8
+
+I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning on complex data, with an emphasis on approaches that are statistically principled, computationally scalable, and reliably trustworthy.
+
+The main directions of my research can be grouped into a few broad areas of machine learning:
+
+- **Causal discovery**  
+Uncovering the underlying mechanisms that generate observed data, separating true cause-effect relationships from spurious associations to enable deeper scientific understanding.
+- **High-dimensional learning**  
+Extracting reliable structure and signal from datasets with thousands or millions of measured variables, where classical statistical principles break down and new techniques are needed.
+- **Bayesian inference**  
+Using probabilistic reasoning to integrate prior knowledge with new evidence, yielding transparent measures of uncertainty that guide reliable decision-making.
+
+Before my current role, I was a Research Associate at the University of New South Wales, following a PhD at Monash University. Earlier in my career, I worked at KPMG, advising financial institutions on quantitative risk management. I completed my undergraduate studies at the University of Sydney.
+
+**My curriculum vitae is available [here](resources/RyanThompson_CV.pdf).**
+
+:::
 
 ::: g-col-3
 
@@ -13,17 +33,65 @@ engine: knitr
 
 :::
 
-::: g-col-8
-
-Hi! I'm a researcher in the [School of Mathematical and Physical Sciences](https://www.uts.edu.au/about/faculty-science/school-mathematical-and-physical-sciences) at the University of Technology Sydney (UTS) in Australia. My scientific interests lie broadly in statistical machine learning. I particularly enjoy working on high-dimensional problems---challenging problems that comprise a large number (thousands or millions) of statistical unknowns. I also like to read widely and follow developments in different fields.
-
-Prior to joining UTS, I was a postdoc in the School of Mathematics and Statistics at the University of New South Wales, and before that a PhD student in the Department of Econometrics and Business Statistics at Monash University. Prior to working in academia, I spent two years consulting financial institutions on quantitative risk management at KPMG. I completed my undergraduate studies at the University of Sydney.
-
-**My curriculum vitae is available [here](resources/RyanThompson_CV.pdf).**
-
 :::
 
-:::
+---
+
+# Research
+
+<p style="margin-top: 2em;"></p>
+
+**Scalable subset selection in linear mixed models**  
+Ryan Thompson, Matt Wand, and Joanna Wang  
+arXiv, 2025  
+[Preprint](https://arxiv.org/abs/2506.20425) - [Code](https://github.com/ryan-thompson/glmmsel)
+
+**ProDAG: Projected variational inference for directed acyclic graphs**  
+Ryan Thompson, Edwin Bonilla, and Robert Kohn  
+arXiv, 2025  
+[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)
+
+**Semi-supervised Gaussian mixture modelling with a missing data mechanism in R**  
+Ziyang Lyu, Daniel Ahfock, Ryan Thompson, and Geoffrey McLachlan  
+Australian and New Zealand Journal of Statistics, 2024  
+[Publication](https://onlinelibrary.wiley.com/doi/10.1111/anzs.12413) - [Preprint](https://arxiv.org/abs/2302.13206) - [Code](https://cran.r-project.org/web/packages/gmmsslm/index.html)
+
+**Contextual directed acyclic graphs**  
+Ryan Thompson, Edwin Bonilla, and Robert Kohn  
+Proceedings of the 27th International Conference on Artificial Intelligence and Statistics, 2024  
+[Publication](https://proceedings.mlr.press/v238/thompson24a.html) - [Preprint](https://arxiv.org/abs/2310.15627) - [Code](https://github.com/ryan-thompson/ContextualDAG.jl)
+
+**Familial inference: Tests for hypotheses on a family of centres**  
+Ryan Thompson, Catherine Forbes, Steven MacEachern, and Mario Peruggia  
+Biometrika, 2024  
+[Publication](https://academic.oup.com/biomet/article/111/3/1029/7453377) - [Preprint](https://arxiv.org/abs/2202.12540) - [Code](https://github.com/ryan-thompson/familial)
+
+**Flexible global forecast combinations**  
+Ryan Thompson, Yilin Qian, and Andrey Vasnev  
+Omega, 2024  
+[Publication](https://www.sciencedirect.com/science/article/pii/S0305048324000409) - [Preprint](https://arxiv.org/abs/2207.07318) - [Code](https://github.com/ryan-thompson/global-combinations)
+
+**Group selection and shrinkage: Structured sparsity for semiparametric additive models**  
+Ryan Thompson and Farshid Vahid  
+Journal of Computational and Graphical Statistics, 2024  
+[Publication](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2330517) - [Preprint](https://arxiv.org/abs/2105.12081) - [Code](https://github.com/ryan-thompson/grpsel)
+
+**The contextual lasso: Sparse linear models via deep neural networks**  
+Ryan Thompson, Amir Dezfouli, and Robert Kohn  
+Advances in Neural Information Processing Systems, 2023  
+[Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html) - [Preprint](https://arxiv.org/abs/2302.00878) - [Code](https://github.com/ryan-thompson/ContextualLasso.jl)
+
+**Robust subset selection**  
+Ryan Thompson  
+Computational Statistics and Data Analysis, 2022  
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167947321002498) - [Preprint](https://arxiv.org/abs/2005.08217) - [Code](https://github.com/ryan-thompson/robustsubsets)
+
+**Optimal selection of expert forecasts with integer programming**  
+Dmytro Matsypura, Ryan Thompson, and Andrey Vasnev  
+Omega, 2018  
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S0305048317300130) - [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2894083)
+
+<p style="margin-top: 2em;"></p>
 
 ---
 

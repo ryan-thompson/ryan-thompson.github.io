@@ -3,17 +3,14 @@ project:
   output-dir: docs
 
 website:
+  title: Ryan Thompson
+  search: false
   navbar:
-    left:
-      - href: index.qmd
-        text: About
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
+    background: dark
+    foreground: light
     right:
       - icon: envelope-fill
-        href: mailto:ryan.thompson1@unsw.edu.au
+        href: mailto:ryan.thompson-1@uts.edu.au
       - icon: linkedin
         href: https://au.linkedin.com/in/r-thompson
       - icon: mortarboard-fill
@@ -23,7 +20,51 @@ website:
 
 format:
   html:
-    theme: simplex
+    theme: brite
     css: styles.css
     fontsize: 0.9em
     page-layout: full
+    include-after-body:
+      text: |
+        <script>
+        // Keep navbar width exactly equal to the main content box (auto, no constants)
+        (function () {
+          function syncNavbarWidth() {
+            // The main content wrapper that already has the correct width + gutters
+            var bodyBox = document.querySelector('main#quarto-document-content');
+            // Quarto navbar inner container
+            var navBox  = document.querySelector('header#quarto-header .navbar .container-fluid') ||
+                          document.querySelector('header#quarto-header .navbar .navbar-container');
+            if (!bodyBox || !navBox) return;
+
+            var r = bodyBox.getBoundingClientRect();
+            // Remove theme x-padding so our centering is exact
+            var nav = document.querySelector('header#quarto-header nav.navbar');
+            if (nav) {
+              nav.style.paddingLeft  = '0';
+              nav.style.paddingRight = '0';
+            }
+
+            // Match the exact visible width of the body box and center it
+            navBox.style.maxWidth   = r.width + 'px';
+            navBox.style.width      = '100%';
+            navBox.style.marginLeft = 'auto';
+            navBox.style.marginRight= 'auto';
+            // No extra x-padding: the body box already includes the gutters
+            navBox.style.paddingLeft  = '0';
+            navBox.style.paddingRight = '0';
+          }
+
+          var ro = new ResizeObserver(syncNavbarWidth);
+          // Re-run when either the body box or the navbar changes size
+          var bodyBox = document.querySelector('main#quarto-document-content');
+          var navBox  = document.querySelector('header#quarto-header .navbar .container-fluid') ||
+                        document.querySelector('header#quarto-header .navbar .navbar-container');
+          if (bodyBox) ro.observe(bodyBox);
+          if (navBox)  ro.observe(navBox);
+
+          window.addEventListener('load', syncNavbarWidth);
+          window.addEventListener('resize', syncNavbarWidth);
+          document.addEventListener('readystatechange', syncNavbarWidth);
+        })();
+        </script>
