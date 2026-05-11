@@ -10,7 +10,7 @@ engine: knitr
 
 ::: g-col-9
 
-I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning on complex data, with an emphasis on approaches that are statistically principled, computationally scalable, and operationally trustworthy.
+I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning, with an emphasis on approaches that are statistically principled, computationally scalable, and operationally trustworthy.
 
 The main directions of my research fall under a few broad areas of machine learning:
 
@@ -41,10 +41,15 @@ Before my current role, I was a Research Associate at the University of New Sout
 
 <p style="margin-top: 2em;"></p>
 
+**Arrow: A foundation model for causal discovery**  
+Ryan Thompson, He Zhao, Daniel Steinberg, and Edwin Bonilla  
+arXiv, 2026  
+[Preprint](https://arxiv.org/abs/2605.07204)
+
 **ProDAG: Projected variational inference for directed acyclic graphs**  
 Ryan Thompson, Edwin Bonilla, and Robert Kohn  
-Advances in Neural Information Processing Systems, 2025  
-[Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)
+Advances in Neural Information Processing Systems (NeurIPS), 2025  
+[Publication](https://papers.nips.cc/paper_files/paper/2025/hash/ee42c13f231836e914930925f950fc62-Abstract-Conference.html) - [Preprint](https://arxiv.org/abs/2405.15167) - [Code](https://github.com/ryan-thompson/ProDAG.jl)
 
 **Scalable subset selection in linear mixed models**  
 Ryan Thompson, Matt Wand, and Joanna Wang  
@@ -58,7 +63,7 @@ Australian and New Zealand Journal of Statistics, 2024
 
 **Contextual directed acyclic graphs**  
 Ryan Thompson, Edwin Bonilla, and Robert Kohn  
-International Conference on Artificial Intelligence and Statistics, 2024  
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2024  
 [Publication](https://proceedings.mlr.press/v238/thompson24a.html) - [Preprint](https://arxiv.org/abs/2310.15627) - [Code](https://github.com/ryan-thompson/ContextualDAG.jl)
 
 **Familial inference: Tests for hypotheses on a family of centres**  
@@ -78,7 +83,7 @@ Journal of Computational and Graphical Statistics, 2024
 
 **The contextual lasso: Sparse linear models via deep neural networks**  
 Ryan Thompson, Amir Dezfouli, and Robert Kohn  
-Advances in Neural Information Processing Systems, 2023  
+Advances in Neural Information Processing Systems (NeurIPS), 2023  
 [Publication](https://proceedings.neurips.cc/paper_files/paper/2023/hash/3f226824426a4d6ae3d3efad8883fc53-Abstract-Conference.html) - [Preprint](https://arxiv.org/abs/2302.00878) - [Code](https://github.com/ryan-thompson/ContextualLasso.jl)
 
 **Robust subset selection**  
