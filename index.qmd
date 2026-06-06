@@ -10,7 +10,7 @@ engine: knitr
 
 ::: g-col-9
 
-I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO's Data61](https://www.csiro.au/en/about/people/business-units/data61). My research focuses on developing new techniques for machine learning, with an emphasis on approaches that are statistically principled, computationally scalable, and operationally trustworthy.
+I am a Research Fellow at the [University of Technology Sydney](https://www.uts.edu.au/) and a Visiting Scientist at [CSIRO](https://www.csiro.au/). My research focuses on developing new techniques for machine learning, with an emphasis on approaches that are statistically principled, computationally scalable, and operationally trustworthy.
 
 The main directions of my research fall under a few broad areas of machine learning:
 
