@@ -44,7 +44,7 @@ Before my current role, I was a Research Associate at the University of New Sout
 **Arrow: A foundation model for causal discovery**  
 Ryan Thompson, He Zhao, Daniel Steinberg, and Edwin Bonilla  
 arXiv, 2026  
-[Preprint](https://arxiv.org/abs/2605.07204)
+[Preprint](https://arxiv.org/abs/2605.07204) - [Code](https://github.com/ryan-thompson/arrowfm)
 
 **ProDAG: Projected variational inference for directed acyclic graphs**  
 Ryan Thompson, Edwin Bonilla, and Robert Kohn  
