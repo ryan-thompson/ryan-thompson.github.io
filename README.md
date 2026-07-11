@@ -32,7 +32,7 @@ npm run build
 npm run preview
 ```
 
-The static site is written to `dist/`. It is configured for root-path deployment at `https://ryan-thompson.github.io/` and can be published with the included GitHub Pages workflow.
+The static site is written to `dist/`. It is configured for root-path deployment at `https://ryanthompson.me/` and can be published with the included GitHub Pages workflow.
 
 ## License
 

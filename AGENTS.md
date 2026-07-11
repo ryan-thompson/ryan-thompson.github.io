@@ -25,7 +25,7 @@ Public files are limited to `headshot.webp`, `RyanThompson_CV.pdf`, `favicon.ico
 
 ## Constraints
 
-- Publish only the root `/` route as a static site for `https://ryan-thompson.github.io/`; do not add a repository subpath or Astro `base` setting.
+- Publish only the root `/` route as a static site for `https://ryanthompson.me/`; do not add a repository subpath or Astro `base` setting.
 - Preserve the two-column desktop layout, sticky profile sidebar, responsive stacking, automatic light/dark palette, hover/focus states, reduced-motion behavior, and entrance animation.
 - Do not add `<style>` tags to Astro files. Keep styles in `src/styles/global.css`.
 - Import `bio.md` directly; do not reintroduce Astro content collections, schemas, adapters, config/type barrels, or sample content routes.
